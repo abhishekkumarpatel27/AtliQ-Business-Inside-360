@@ -61,6 +61,10 @@ This project highlights that **effective analytics is not about showing more dat
 
 ---
 
+## Project link
+
+https://app.powerbi.com/groups/me/reports/9bcb4ae4-ab10-46da-9cd4-718c9faa265f/ReportSection3e6d270a5b20870d7cd8?experience=power-bi
+
 ## 📬 Feedback
 
 Feedback, suggestions, and discussions are welcome. Feel free to raise an issue or connect with me on LinkedIn.
