@@ -21,6 +21,7 @@ The project is based on a fictional consumer goods company, **Atliq Hardware**, 
 * Sales
 * Marketing
 * Supply Chain
+* Exceutive 
 
 Despite strong Net Sales and healthy Gross Margins, the company was experiencing **net losses**. The dashboard helps uncover the underlying drivers behind this performance.
 
