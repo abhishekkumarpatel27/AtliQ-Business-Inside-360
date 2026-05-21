@@ -1,4 +1,3 @@
-# AtliQ-Business-Inside-360
 
 # 📊 Business Insights 360 | Power BI Dashboard
 A 360 degree view of AtliQ Hardware's business units visualised through a unified Power BI dashboard.
