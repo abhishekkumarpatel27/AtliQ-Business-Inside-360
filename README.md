@@ -38,11 +38,11 @@ Despite strong Net Sales and healthy Gross Margins, the company was experiencing
 
 ## 📈 Dashboard Features
 
-* **Executive View** for top-level performance monitoring
 * **Finance View** with full P&L, cost breakdown and profitability analysis
 * **Sales View** analysing performance by product, customer and region
 * **Marketing View** linking spend to revenue and margins
 * **Supply Chain View** covering forecast accuracy, net error and inventory risk
+* **Executive View** for top-level performance monitoring
 
 ---
 
@@ -63,7 +63,7 @@ This project highlights that **effective analytics is not about showing more dat
 
 ## Project link
 
-https://app.powerbi.com/groups/me/reports/9bcb4ae4-ab10-46da-9cd4-718c9faa265f/ReportSection3e6d270a5b20870d7cd8?experience=power-bi
+https://app.powerbi.com/groups/me/reports/9bcb4ae4-ab10-46da-9cd4-718c9faa265f/1e255e5866143d85e181?experience=power-bi
 
 ## 📬 Feedback
 
